@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/StarVault/static/css/main.5c4fbbf3.css",
-    "main.js": "/StarVault/static/js/main.933ef047.js",
+    "main.js": "/StarVault/static/js/main.07a6cbee.js",
     "static/js/453.cb62f827.chunk.js": "/StarVault/static/js/453.cb62f827.chunk.js",
     "static/media/primeicons.svg": "/StarVault/static/media/primeicons.6ed59f962963a4a73af2.svg",
     "static/media/primeicons.eot": "/StarVault/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
@@ -11,11 +11,11 @@
     "static/media/Fading circles.gif": "/StarVault/static/media/Fading circles.0765155cae1aabade150.gif",
     "index.html": "/StarVault/index.html",
     "main.5c4fbbf3.css.map": "/StarVault/static/css/main.5c4fbbf3.css.map",
-    "main.933ef047.js.map": "/StarVault/static/js/main.933ef047.js.map",
+    "main.07a6cbee.js.map": "/StarVault/static/js/main.07a6cbee.js.map",
     "453.cb62f827.chunk.js.map": "/StarVault/static/js/453.cb62f827.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c4fbbf3.css",
-    "static/js/main.933ef047.js"
+    "static/js/main.07a6cbee.js"
   ]
 }
